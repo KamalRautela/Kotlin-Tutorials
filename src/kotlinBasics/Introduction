@@ -1,0 +1,25 @@
+What is Kotlin?
+Kotlin is a modern programming language.
+It is officially supported for Android app development by Google.
+Kotlin is designed to be concise, expressive, and safe.
+It runs on the Java Virtual Machine (JVM) and can interoperate with Java code smoothly.
+Kotlin is statically typed, meaning variable types are known at compile-time.
+
+History of Kotlin
+Kotlin was developed by JetBrains, a company known for IntelliJ IDEA.
+Announced in 2011 and open-sourced in 2012.
+Named after Kotlin Island, near St. Petersburg in Russia.
+Google announced official support for Kotlin on Android in 2017.
+Kotlin has steadily gained popularity in the Android development community.
+
+Features of Kotlin
+Concise syntax reduces boilerplate code.
+Null safety helps eliminate NullPointerExceptions.
+Supports both object-oriented and functional programming styles.
+Extension functions allow adding new functions to existing classes without modification.
+Coroutines support for asynchronous programming.
+Interoperable with existing Java libraries and frameworks.
+Supports smart casting and type inference.
+Compatible with all existing Java frameworks and libraries.
+Has built-in support for data classes.
+Kotlin is now essential for Android app developers due to its modern features and official Google support.
